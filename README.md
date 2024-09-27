@@ -16,4 +16,5 @@
 
 
 ### Screen Shots
+![Full Page](https://github.com/AdemHos/Google-Gemini-Clone/blob/main/src/assets/Screen%20Shots/ScreenShot-2.png?raw=true)
 
